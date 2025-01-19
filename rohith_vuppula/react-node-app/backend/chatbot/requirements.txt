@@ -1,0 +1,26 @@
+# Core ML Libraries
+scikit-learn>=1.0.2
+tensorflow>=2.13.0
+nltk>=3.8.1
+numpy>=1.24.0
+
+# NLP Processing
+regex>=2023.10.3
+
+# Utilities
+pandas>=2.0.0
+python-dateutil>=2.8.2
+tqdm>=4.66.1
+
+# Web Framework (if needed for API)
+flask>=3.0.0
+gunicorn>=21.2.0
+
+# Testing
+pytest>=7.4.3
+pytest-cov>=4.1.0
+
+# Development Tools
+black>=23.11.0
+flake8>=6.1.0
+isort>=5.12.0
