@@ -26,7 +26,7 @@ Hello! I'm **Rohith Vuppula**, a passionate **Software Developer** and **AI/ML E
 
 Here are some of my articles that explain my thoughts and experiences with technology:
 
-- [**Blockchain: Stops Corruption and Protects Your Privacy**](https://medium.com/@rohithvuppula/blockchain-stops-corruption-and-protects-your-privacy-1234567890)  
+- [**Blockchain: Stops Corruption and Protects Your Privacy**]([https://medium.com/@rohithvuppula/blockchain-stops-corruption-and-protects-your-privacy-1234567890](https://www.linkedin.com/pulse/blockchain-fighting-against-corruption-protect-your-privacy-vuppula-ebg2c/?trackingId=%2F%2FUwEU%2BaRAWqwK5KE%2BcyXw%3D%3D))  
   In this article, I dive deep into how **blockchain technology** can help fight corruption and ensure privacy protection. I simplify the concept of blockchain and its potential applications in various sectors.
 
 ---
@@ -41,9 +41,9 @@ Here are some of my articles that explain my thoughts and experiences with techn
 
 ## **Connect with Me**
 
-- **LinkedIn**: [Rohith Vuppula on LinkedIn](https://www.linkedin.com/in/rohithvuppula/)
+- **LinkedIn**: [Rohith Vuppula on LinkedIn]((https://www.linkedin.com/in/rohith-vuppula-599b16290/))
 - **GitHub**: [rohith1246 on GitHub](https://github.com/rohith1246)
-- **Medium**: [Rohith Vuppula on Medium](https://medium.com/@rohithvuppula)
+
 
 Feel free to reach out if you want to collaborate on AI/ML, Data Science, Full-Stack Development, or any interesting tech projects!
 
